@@ -1,0 +1,30 @@
+﻿@model string
+
+<style>
+    /* Custom style for the image box */
+    .image-box {
+        padding: 10px;
+        width: 200px; /* Set your desired width */
+        height: auto; /* Adjust height as needed */
+    }
+
+    .image {
+        max-width: 100%; /* Ensure the image fits within the box */
+        height: auto; /* Maintain aspect ratio */
+    }
+</style>
+
+<div class="custom-image-box">
+    <label>Current Image:</label>
+    <!-- Display current image if available -->
+    @if (!string.IsNullOrEmpty(Model))
+    {
+        <div class="image-box">
+            <img src="@Url.Content(Model)" alt="Current Image" class="image" />
+        </div>
+    }
+    else
+    {
+        <span>No Image!</span>
+    }
+</div>

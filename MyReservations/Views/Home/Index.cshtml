@@ -1,0 +1,130 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <link href="~/images.png" rel="stylesheet" />
+    <style>
+
+        body {
+            background-image: url('/images/minimini.png');
+            background-size: cover;
+        }
+            
+            
+        
+        .welcome-text {
+            margin-block:1%;
+             font-size: 60px;
+            font-weight: bold;
+            color:white;
+        }
+           
+
+        .display-4xt {
+            font-size: 50px;
+            font-weight: 200;
+            color:WHITE;
+        }
+           
+
+        .text-center {
+            text-align: center;
+            padding-top: 90px;
+        }
+
+       
+        
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="welcome-text">WELCOME TO YOUR FAVORITE WEBSITE</h1>
+        <h1 class="display-4xt">PICK A PLACE OR ACTIVITY</h1>
+
+        <div class="container" style="margin-top:110px">
+         
+            <div class="row">
+                @* <div class="col-sm">
+                    <div class="es-card">
+                        <a href="@Url.Action("Index", "Restaurant")">
+                          
+                            <img src="/images/3.png" class="card-img-top test3" alt="...">
+                            <span class="img__description">
+                                
+                            </span>
+                        </a>
+                    </div>
+                </div> *@
+
+                <div class="col-sm">
+                    <div class="es-card" id="card">
+                        <a href="@Url.Action("Index", "Restaurant")">
+                            <div class="card-img-top test3" id="card-image" alt="Original Image"></div>
+                            <span class="img__description"></span>
+                        </a>
+                    </div>
+                </div>
+
+                @* <div class="col-sm">
+                    <div class="event-card" id="card">
+                        <a href="@Url.Action("Index", "Restaurant")">
+                            <div class="card-img-top test4" id="card-image1" alt="Original Image"></div>
+                            <span class="img__description"></span>
+                        </a>
+                    </div>
+                </div> *@
+
+                <div class="col-sm">
+                    <div class="event-card" id="event-card">
+                        <a href="@Url.Action("Index", "Event")">
+                            <div class="card-img-top test4" id="event-image" alt="Original Image"></div>
+                            <p class="img__description"></p>
+                        </a>
+                    </div>
+                </div>
+
+           @*      <div class="col-sm">
+                    <div class="event-card">
+                        <a href="@Url.Action("Index", "Event")">
+                            <img src="/images/1.png" class="card-img-top test3" alt="...">
+                          
+                            <p class="img__description">
+
+                            </p>
+                        </a>
+                    </div>
+                </div> *@
+
+
+               @*  <div class="col-sm">
+                    <div class="attr-card">
+                        <a href="@Url.Action("Index", "Attraction")">
+                           
+                            <img src="/images/2.png" class="card-img-top test3" alt="...">
+                            <p class="img__description">
+
+                            </p>
+                        </a>
+                    </div>
+                </div> *@
+
+                <div class="col-sm">
+                    <div class="attr-card" id="attr-card">
+                        <a href="@Url.Action("Index", "Attraction")">
+                            <div class="card-img-top test3" id="attr-image" alt="Original Image"></div>
+                            <p class="img__description"></p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+﻿@model MyReservations.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Edit Restaurant Details";
+}
+
+<style>
+    .form-control {
+        margin-top: 20px;
+        color: black; /* Change font color */
+        font-weight: bold; /* Make font bold */
+    }
+
+    label.control-label {
+        margin-top: 20px;
+        color: white; /* Change label font color */
+        font-weight: bold; /* Make label font bold */
+    }
+
+    /* Add any additional custom styles as needed */
+    .title-font {
+        margin-top: 20px;
+        color: white; /* Change title font color */
+        font-weight: bold;
+    }
+</style>
+
+<h1 class="title-font">@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("EditDetails", "Restaurant", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.RestaurantName, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.RestaurantName, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RestaurantName)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.RestaurantDesc, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.RestaurantDesc, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RestaurantDesc)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.RestaurantHours, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.RestaurantHours, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RestaurantHours)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.RestaurantLocation, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.RestaurantLocation, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RestaurantLocation)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.RestaurantImages, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.RestaurantImages, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RestaurantImages)
+    </div>
+
+    <div class="form-control-lg title-font">
+        @Html.Partial("ImageUploadPartial", Model.RestaurantImages)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.TextBox("RestaurantImages", null, new { type = "file" })
+    </div>
+
+    <input value="Save Changes" type="submit" class="btn btn-primary form-control" />
+}

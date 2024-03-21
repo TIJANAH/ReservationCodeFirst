@@ -1,0 +1,70 @@
+﻿@model MyReservations.Models.Attraction
+
+@{
+    ViewData["Title"] = "Edit Attraction";
+}
+
+<style>
+    .form-control {
+        margin-top: 50px;
+        color: black; /* Change font color */
+        font-weight: bold; /* Make font bold */
+    }
+
+    label.control-label {
+        margin-top: 50px;
+        color: white; /* Change label font color */
+        font-weight: bold; /* Make label font bold */
+    }
+
+    .title-font {
+        margin-top: 50px;
+        color: white; /* Change title font color */
+        font-weight: bold;
+    }
+
+    /* Custom style for the image box */
+    .image-box {
+        padding: 10px;
+        width: 200px; /* Set your desired width */
+        height: auto; /* Adjust height as needed */
+    }
+
+    .image {
+        max-width: 100%; /* Ensure the image fits within the box */
+        height: auto; /* Maintain aspect ratio */
+    }
+
+    .custom-image-box {
+        padding: 10px;
+        width: 200px; /* Set your desired width */
+        height: auto; /* Adjust height as needed */
+    }
+
+    .custom-image {
+        max-width: 100%; /* Ensure the image fits within the box */
+        height: auto; /* Maintain aspect ratio */
+    }
+</style>
+
+<h1 class="title-font">@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("Edit", "Attraction", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsName, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsName, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsName)
+    </div>
+
+    <div class="custom-image-box">
+        @Html.Partial("ImageUploadPartial", Model.AttractionsImages)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.TextBox("AttractionPictures", null, new { type = "file" })
+    </div>
+
+    <input value="Save Changes" type="submit" class="btn btn-primary form-control" />
+
+}

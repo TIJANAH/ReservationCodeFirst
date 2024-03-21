@@ -1,0 +1,71 @@
+﻿@model MyReservations.Models.Attraction
+
+
+@{
+    ViewData["Title"] = "Create A New Attraction";
+}
+
+<style>
+    .form-control {
+        margin-top: 20px;
+        color: black; 
+        font-weight: bold; 
+    }
+
+    label.control-label {
+        margin-top: 20px;
+        color: white; 
+        font-weight: bold; 
+    }
+
+ 
+    .title-font {
+        margin-top: 20px;
+        color: white; 
+        font-weight: bold;
+    }
+</style>
+
+<h1 class="title-font">@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("Create", "Attraction", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsName, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsName, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsName)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsDesc, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsDesc, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsDesc)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsHours, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsHours, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsHours)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsLocation, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsLocation, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsLocation)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.AttractionsImages, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.AttractionsImages, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.AttractionsImages)
+    </div>
+
+
+    <div class="form-group title-font">
+        @Html.TextBox("AttractionsImages", null, new { type = "file" })
+    </div>
+
+    <input value="Create Attraction" type="submit" class="btn btn-primary form-control" />
+}

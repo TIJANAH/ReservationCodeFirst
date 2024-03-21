@@ -1,0 +1,50 @@
+﻿.restaurant-button {
+    background-image: url('https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg');
+}
+
+.event-button {
+    background-image: url('https://www.bca.co.id/-/media/Feature/News/Edukatips/2022/09/20220912-tips-nonton-konser-pertama-kali-banner.jpg');
+    height: 100px;
+}
+
+.attraction-button {
+    background-image: url('https://media.tacdn.com/media/attractions-splice-spp-674x446/07/3b/c0/d4.jpg');
+    height: 100px;
+}
+
+.action-button:hover {
+    opacity: 0.7;
+}
+
+.card:hover .img__description {
+    visibility: visible;
+    opacity: 1;
+}
+
+.img__description {
+    position: absolute;
+    top: 35%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size:40px;
+    font-weight:bold;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+}
+
+background-color {
+    background-color: black;
+}
+
+.row:not(:first-child) {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 992px) {
+    .img__description {
+        font-size: 20px;
+    }
+}

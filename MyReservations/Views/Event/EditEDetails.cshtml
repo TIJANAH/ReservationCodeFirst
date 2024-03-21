@@ -1,0 +1,77 @@
+﻿@model MyReservations.Models.Event
+
+@{
+    ViewData["Title"] = "Edit Event Details";
+}
+
+<style>
+ 
+    .form-control {
+        margin-top: 20px;
+        color: black; /* Change font color */
+        font-weight: bold; /* Make font bold */
+    }
+
+    label.control-label {
+        margin-top: 20px;
+        color: white; /* Change label font color */
+        font-weight: bold; /* Make label font bold */
+    }
+
+    /* Add any additional custom styles as needed */
+    .title-font {
+        margin-top: 20px;
+        color: white; /* Change title font color */
+        font-weight: bold;
+    }
+</style>
+
+    
+
+
+<h1 class="title-font">@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("EditEDetails", "Event", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventName, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventName, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventName)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventDesc, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventDesc, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventDesc)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventHours, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventHours, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventHours)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventLocation, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventLocation, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventLocation)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventImages, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventImages, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventImages)
+    </div>
+
+    <div class="form-control-lg title-font">
+        @Html.Partial("ImageUploadPartial", Model.EventImages)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.TextBox("EventImages", null, new { type = "file" })
+    </div>
+
+    <input value="Save Changes" type="submit" class="btn btn-primary form-control" />
+}

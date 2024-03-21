@@ -1,0 +1,13 @@
+﻿@model MyReservations.Models.Attraction
+
+<h2>Delete</h2>
+<h3>Are you sure you want to delete this event?</h3>
+<div>
+    <h4>Event Name: @Model.AttractionsName</h4>
+    <h4>Event Description: @Model.AttractionsDesc</h4>
+</div>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.AttractionsId" method="post">
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-controller="Attraction" asp-action="Index" class="btn btn-primary">Back to List</a>
+</form>

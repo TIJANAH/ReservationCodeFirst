@@ -1,0 +1,198 @@
+﻿@model Restaurant
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.RestaurantName</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <link href="~/css/ReservationTypes.css" rel="stylesheet" />
+    <link href="~/images.png" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
+
+    <style>
+     
+        body {
+            background-image: url(/images/minimini.png);
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Style for the container */
+        .container {
+            display: flex;
+            align-items: flex-start; /* Align items to the top */
+        }
+
+        /* Style for the left section */
+        .left-section {
+            margin-right: 20px; /* Add some margin between the left and right sections */
+        }
+
+        /* Style for the image container */
+        .image-container {
+            position: relative;
+            text-align: left; /* Align images and arrows to the left */
+            max-width: 70%; /* Set maximum width */
+        }
+
+            /* Style for all images */
+            .image-container img {
+                margin-top: 150px;
+                width: 700px; /* Adjust as needed */
+                height: 500px; /* Ensure all images have the same height */
+                display: block;
+            }
+
+        /* Style for the arrows */
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 16px;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            z-index: 1;
+            text-decoration: none; /* Remove underline */
+        }
+
+        .prev {
+            left: 50px; /* Adjust horizontally */
+        }
+
+        .next {
+            right: -150px; /* Adjust horizontally */
+        }
+
+            /* Style for hover effect on arrows */
+            .prev:hover, .next:hover {
+                background-color: rgba(0, 0, 0, 0.8);
+            }
+
+        /* Style for headers */
+        .name {
+            font-size: 40px; /* Adjust font size */
+            font-weight: bold;
+            color: white;
+            margin-top: 20px; /* Adjust spacing */
+        }
+
+        .desc {
+            font-size: 20px; /* Adjust font size */
+            font-weight: bold;
+            color: gray;
+            margin: 20px 0; /* Adjust spacing */
+            width: 100%; /*/* Adjust width */
+        }
+
+        .mapsStyle {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+        .btnReserve {
+            margin-top: 20px;
+            margin-left: 60px;
+            color: aliceblue;
+            background-color: indianred;
+                        border-color: indianred;
+        }
+
+        .btnWish {
+            margin-top: 20px;
+            margin-left: 20px;
+            color: aliceblue;
+            background-color: indianred;
+            border-color: indianred;
+        }
+           .edit-btn, .delete-btn {
+            margin-top: 5px;
+            background-color: black;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            margin-right: 5px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .edit-btn:hover, .delete-btn:hover {
+                background-color: white;
+                color: black;
+            }
+
+        .btnWish:hover, .btnReserve:hover {
+                background-color: white;
+                color: black;
+                border-color:black;
+            }
+
+
+    </style>
+
+</head>
+<body>
+
+    <div class="container">
+        <div class="left-section">
+            <div class="image-container">
+
+                <img class="mySlides picture" src="@Model.RestaurantImages" alt="1.png">
+                @* <img class="mySlides picture" src="/images/area.jpg" alt="2.png">
+                <img class="mySlides picture" src="/images/ch.jpg" alt="Image 3"> *@
+
+
+                <!-- Previous and Next buttons -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+            </div>
+        </div>
+        <div>
+            <h1 class="name">@Model.RestaurantName</h1>
+            <h3 class="name">@Model.RestaurantHours</h3>
+            <h2 class="desc">@Model.RestaurantDesc</h2><div class="imageL">
+
+                <iframe class="mapsStyle" src="@Model.RestaurantLocation" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div>
+                <button type="button" class="btn btn-primary btn-lg btnReserve">
+                    <i class="bi bi-calendar3"></i>        Reserve Now
+                </button>
+                <button type="button" class="btn btn-primary btn-lg btnWish">
+                    <i class="bi bi-heart-fill"></i>  Add To Wishlist
+                </button>
+            </div>
+        </div>
+        <a href="@Url.Action("EditDetails", "Restaurant", new { id = Model.RestaurantId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
+        <a href="@Url.Action("Delete", "Restaurant", new { id = Model.RestaurantId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this restaurant?')"><i class="bi bi-trash"></i> </a>
+
+    </div>
+  
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slides[slideIndex - 1].style.display = "block";
+        }
+    </script>
+</body>
+</html>

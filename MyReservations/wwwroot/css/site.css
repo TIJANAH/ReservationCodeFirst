@@ -1,0 +1,79 @@
+html {
+  font-size: 50px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color:black;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+ .test {
+    width: 100%;
+    height: 129px;
+}
+
+.test2 {
+    width: 100%;
+    height: 370px;
+}
+
+.test3 {
+    width: 100%;
+    height: 250px;
+    background: url("../images/3.png") ;
+    background-size: cover; 
+    background-position: center; 
+}
+
+#event-image {
+    width: 100%;
+    height: 250px;
+    background: url("../images/1.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#attr-image {
+    width: 100%;
+    height: 250px;
+    background: url("../images/2.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.es-card:hover #card-image {
+    background: url('../images/food.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.event-card:hover #event-image {
+    background: url('../images/kk.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.attr-card:hover #attr-image {
+    background: url('../images/attraction.jpg');
+    background-size: cover;
+    background-position: center;
+}

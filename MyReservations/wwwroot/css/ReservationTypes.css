@@ -1,0 +1,54 @@
+﻿.text-center-restaurants {
+    text-align: center;
+    font-size: 20px;
+    top: 40%;
+    padding-top: 20px;
+}
+
+.display-4-restaurants {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.text-button-restaurants {
+    text-align: center;
+}
+
+.text-subtitle-restaurants {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.title-box-restaurants {
+    margin-top: 80px !important;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    margin: 0 30px;
+    bottom: auto;
+}
+
+.text-center-events {
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.display-4-events {
+    font-size: 40px;
+}
+
+.text-center-attraction {
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+
+.display-4-attraction {
+    margin-top: 2px;
+    font-size: 60px;
+    font-weight: bold;
+    color:white;
+}

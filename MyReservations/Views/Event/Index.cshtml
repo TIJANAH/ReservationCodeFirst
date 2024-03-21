@@ -1,0 +1,95 @@
+﻿@{
+    ViewData["Title"] = "Events Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <link href="~/css/ReservationTypes.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('https://www.nightflow.com/wp-content/uploads/2022/10/Corsica-Studios-London.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+
+        p {
+            font-size: 100px;
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .card-body {
+            padding: 0.5rem 0.5rem;
+        }
+
+        .custom-btn {
+            background-color: lightpink;
+            color: black;
+            margin-bottom: 0px;
+            font-size: 15px;
+            text-align: center;
+            padding: 5px 0;
+        }
+
+            .custom-btn:hover {
+                background-color: hotpink;
+                border-color: black;
+                color: white;
+                font-weight: bold;
+                font-size: 15px;
+            }
+
+        .create-button {
+            margin-top: 50px;
+            margin-right: -1700px;
+            color: white;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="text-center-events">
+        <a href="@Url.Action("Create", "Event")" class="create-button">
+            <i class="bi bi-plus-square"></i>
+        </a>
+
+        <h1 class="display-4-events">WELCOME TO THE</h1>
+        <p>@ViewData["Title"]</p>
+    </div>
+    <div class="container" style="margin-top:100px">
+        <div class="row">
+            @foreach (var res in Model)
+            {
+                <div class="col-sm-2 mt-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <!-- Edit button -->
+                            <a href="@Url.Action("Edit", "Event", new { id = res.EventId })">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>
+                            <!-- Delete button -->
+                            <a href="@Url.Action("Delete", "Event", new { id = res.EventId })">
+                                <i class="bi bi-trash3"></i>
+                            </a>
+                        </div>
+                        <input type="hidden" value="@res.EventId" />
+                        <a href="@Url.Action("DetailE", "Event", new { id = res.EventId })">
+                            <img src="@res.EventImages" class="card-img-top test" alt="...">
+                            <p class="custom-btn">@res.EventName</p>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿@model MyReservations.Models.User
+
+<h2>Delete Profile</h2>
+
+<p>Are you sure you want to delete your profile?</p>
+
+@using (Html.BeginForm())
+{
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Cancel</a>
+}

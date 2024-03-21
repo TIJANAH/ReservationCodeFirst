@@ -1,0 +1,69 @@
+﻿@model MyReservations.Models.Event
+
+@{
+    ViewData["Title"] = "Create A New Event";
+}
+
+<style>
+    .form-control {
+        margin-top: 20px;
+        color: black; 
+        font-weight: bold; 
+    }
+
+    label.control-label {
+        margin-top: 20px;
+        color: white; 
+        font-weight: bold; 
+    }
+
+ 
+    .title-font {
+        margin-top: 20px;
+        color: white; 
+        font-weight: bold;
+    }
+</style>
+
+<h1 class="title-font">@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("Create", "Event", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventName, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventName, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventName)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventDesc, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventDesc, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventDesc)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventHours, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventHours, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventHours)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventLocation, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventLocation, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventLocation)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.LabelFor(m => m.EventImages, null, new { @class = "control-label" })
+        @Html.TextBoxFor(m => m.EventImages, null, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EventImages)
+    </div>
+
+    <div class="form-group title-font">
+        @Html.TextBox("EventPictures", null, new { type = "file" })
+    </div>
+
+    <input value="Create Event" type="submit" class="btn btn-primary form-control" />
+}
