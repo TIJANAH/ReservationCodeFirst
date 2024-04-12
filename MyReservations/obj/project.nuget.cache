@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IUaWBL9KzU4xdBs7YsPzAyrV0gr/69gabjF3r36sbYWhcsMLlxe7XzbzCZoIfagmK8KPhN4O0PvjVL4n9UIcg==",
+  "dgSpecHash": "3eW1HfzliuE3QJkaed9eXTV9YNYgFfcCBrThms2ZWEf6H2CJwQh2dJcY3njb+/kQ7Cf8cCiVueui2K3aifkHXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\MyReservations.csproj",
+  "projectFilePath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\MyReservations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\MyReservations.csproj": {}
+    "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\MyReservations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\MyReservations.csproj": {
+    "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\MyReservations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\MyReservations.csproj",
+        "projectUniqueName": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\MyReservations.csproj",
         "projectName": "MyReservations",
-        "projectPath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\MyReservations.csproj",
+        "projectPath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\MyReservations.csproj",
         "packagesPath": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservations\\MyReservations\\obj\\",
+        "outputPath": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

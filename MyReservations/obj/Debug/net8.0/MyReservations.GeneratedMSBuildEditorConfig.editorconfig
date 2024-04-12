@@ -9,139 +9,139 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyReservations
 build_property.RootNamespace = MyReservations
-build_property.ProjectDir = C:\Users\Tijana.Hristova\source\repos\MyReservations\MyReservations\
+build_property.ProjectDir = C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Tijana.Hristova\source\repos\MyReservations\MyReservations
+build_property.MSBuildProjectDirectory = C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Account/Delete.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Account/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Account/Edit.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Account/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Account/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Account/LogIn.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Account/LogIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Account/Register.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/Create.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/Delete.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/DetailA.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/DetailA.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxEZXRhaWxBLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/Edit.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/EditADetails.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/EditADetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxFZGl0QURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Attraction/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Attraction/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmFjdGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/Create.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/Delete.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/DetailE.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/DetailE.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRGV0YWlsRS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/Edit.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/EditEDetails.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/EditEDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRWRpdEVEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Event/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Event/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Home/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Reservation/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Reservation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/Create.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/Delete.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/Detail.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/Edit.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/EditDetails.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/EditDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxFZGl0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Restaurant/Index.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Restaurant/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdGF1cmFudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Shared/Error.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Shared/ImageUploadPartial.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Shared/ImageUploadPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEltYWdlVXBsb2FkUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/_ViewImports.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/_ViewStart.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tijana.Hristova/source/repos/MyReservations/MyReservations/Views/Shared/_Layout.cshtml]
+[C:/Users/Tijana.Hristova/source/repos/MyReservationsCodeFirst/MyReservations/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dxyu4tt724
