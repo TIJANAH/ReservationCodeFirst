@@ -12,19 +12,19 @@ public class AccountController : Controller
         _context = context;
     }
 
- 
-    public ActionResult Login()
+    public IActionResult Login()
     {
         return View();
     }
- 
+
     [HttpPost]
-    public ActionResult Login(string username, string password)
+    public IActionResult Login(string username, string password)
     {
         var user = _context.Users.FirstOrDefault(u => u.Username == username);
         if (user != null && BCrypt.Net.BCrypt.Verify(password, user.Password))
         {
-            return RedirectToAction("Index", "Home"); 
+           
+            return RedirectToAction("Index", "Home");
         }
         else
         {
@@ -33,12 +33,13 @@ public class AccountController : Controller
         }
     }
 
-    public ActionResult Register()
+    public IActionResult Register()
     {
         return View();
     }
+
     [HttpPost]
-    public ActionResult Register(RegisterViewModel model)
+    public IActionResult Register(RegisterViewModel model)
     {
         if (ModelState.IsValid)
         {
@@ -56,43 +57,42 @@ public class AccountController : Controller
             _context.Users.Add(user);
             _context.SaveChanges();
 
-            return RedirectToAction("Index", "Home");
+           
+            return RedirectToAction("Login");
         }
 
         return View(model);
     }
 
-
-    public ActionResult Edit(int id)
+    public IActionResult Edit(int id)
     {
         var user = _context.Users.FirstOrDefault(u => u.UserId == id);
         if (user == null)
         {
-            return NotFound(); 
+            return NotFound();
         }
         return View(user);
     }
 
     [HttpPost]
-    public ActionResult Edit(int id, User user)
+    public IActionResult Edit(int id, User user)
     {
         if (id != user.UserId)
         {
-            return BadRequest(); 
+            return BadRequest();
         }
 
         if (ModelState.IsValid)
         {
             _context.Update(user);
             _context.SaveChanges();
-            return RedirectToAction("Index", "Home"); 
+            return RedirectToAction("Index", "Home");
         }
 
         return View(user);
     }
 
- 
-    public ActionResult Delete(int id)
+    public IActionResult Delete(int id)
     {
         var user = _context.Users.FirstOrDefault(u => u.UserId == id);
         if (user == null)
@@ -103,7 +103,7 @@ public class AccountController : Controller
     }
 
     [HttpPost, ActionName("Delete")]
-    public ActionResult DeleteConfirmed(int id)
+    public IActionResult DeleteConfirmed(int id)
     {
         var user = _context.Users.FirstOrDefault(u => u.UserId == id);
         if (user == null)
@@ -114,6 +114,10 @@ public class AccountController : Controller
         _context.SaveChanges();
         return RedirectToAction("Index", "Home");
     }
-  
 
+    public IActionResult Profile()
+    {
+      
+        return View();
+    }
 }

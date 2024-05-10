@@ -12,41 +12,36 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
 
     <style>
-     
+      
         body {
-            background-image: url(/images/minimini.png);
+            background-image: url("/images/minimini.png");
             background-size: cover;
             margin: 0;
             padding: 0;
         }
 
-        /* Style for the container */
         .container {
             display: flex;
-            align-items: flex-start; /* Align items to the top */
+            align-items: flex-start;
         }
 
-        /* Style for the left section */
         .left-section {
-            margin-right: 20px; /* Add some margin between the left and right sections */
+            margin-right: 20px;
         }
 
-        /* Style for the image container */
         .image-container {
             position: relative;
-            text-align: left; /* Align images and arrows to the left */
-            max-width: 70%; /* Set maximum width */
+            text-align: left;
+            max-width: 70%;
         }
 
-            /* Style for all images */
             .image-container img {
                 margin-top: 150px;
-                width: 700px; /* Adjust as needed */
-                height: 500px; /* Ensure all images have the same height */
+                width: 700px;
+                height: 500px; 
                 display: block;
             }
 
-        /* Style for the arrows */
         .prev, .next {
             cursor: pointer;
             position: absolute;
@@ -58,36 +53,34 @@
             font-weight: bold;
             transition: background-color 0.3s ease;
             z-index: 1;
-            text-decoration: none; /* Remove underline */
+            text-decoration: none;
         }
 
         .prev {
-            left: 50px; /* Adjust horizontally */
+            left: 50px; 
         }
 
         .next {
-            right: -150px; /* Adjust horizontally */
+            right: -150px; 
         }
 
-            /* Style for hover effect on arrows */
             .prev:hover, .next:hover {
                 background-color: rgba(0, 0, 0, 0.8);
             }
 
-        /* Style for headers */
         .name {
-            font-size: 40px; /* Adjust font size */
+            font-size: 40px;
             font-weight: bold;
             color: white;
-            margin-top: 20px; /* Adjust spacing */
+            margin-top: 20px; 
         }
 
         .desc {
-            font-size: 20px; /* Adjust font size */
+            font-size: 20px;
             font-weight: bold;
             color: gray;
-            margin: 20px 0; /* Adjust spacing */
-            width: 100%; /*/* Adjust width */
+            margin: 20px 0; 
+            width: 100%;
         }
 
         .mapsStyle {
@@ -100,7 +93,7 @@
             margin-left: 60px;
             color: aliceblue;
             background-color: indianred;
-                        border-color: indianred;
+            border-color: indianred;
         }
 
         .btnWish {
@@ -110,7 +103,8 @@
             background-color: indianred;
             border-color: indianred;
         }
-           .edit-btn, .delete-btn {
+
+        .edit-btn, .delete-btn {
             margin-top: 5px;
             background-color: black;
             color: white;
@@ -128,71 +122,157 @@
             }
 
         .btnWish:hover, .btnReserve:hover {
-                background-color: white;
-                color: black;
-                border-color:black;
+            background-color: white;
+            color: black;
+            border-color: black;
+        }
+
+       
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+       
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            border-radius: 5px;
+            width: 50%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+      
+        .reserve-button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: black;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .reserve-button:hover {
+                background-color: indianred;
             }
 
-
+        #reservationDateTime {
+            margin-top: 20px;
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
     </style>
-
 </head>
 <body>
 
     <div class="container">
         <div class="left-section">
             <div class="image-container">
+                <img src="@Model.RestaurantImages" alt="Restaurant Image">
 
-                <img class="mySlides picture" src="@Model.RestaurantImages" alt="1.png">
-                @* <img class="mySlides picture" src="/images/area.jpg" alt="2.png">
-                <img class="mySlides picture" src="/images/ch.jpg" alt="Image 3"> *@
-
-
-                <!-- Previous and Next buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
             </div>
         </div>
+
         <div>
             <h1 class="name">@Model.RestaurantName</h1>
             <h3 class="name">@Model.RestaurantHours</h3>
-            <h2 class="desc">@Model.RestaurantDesc</h2><div class="imageL">
+            <h2 class="desc">@Model.RestaurantDesc</h2>
 
+            <div class="imageL">
                 <iframe class="mapsStyle" src="@Model.RestaurantLocation" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-            <div>
-                <button type="button" class="btn btn-primary btn-lg btnReserve">
-                    <i class="bi bi-calendar3"></i>        Reserve Now
-                </button>
-                <button type="button" class="btn btn-primary btn-lg btnWish">
-                    <i class="bi bi-heart-fill"></i>  Add To Wishlist
-                </button>
-            </div>
-        </div>
-        <a href="@Url.Action("EditDetails", "Restaurant", new { id = Model.RestaurantId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
-        <a href="@Url.Action("Delete", "Restaurant", new { id = Model.RestaurantId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this restaurant?')"><i class="bi bi-trash"></i> </a>
 
+            <button type="button" class="btn btn-primary btn-lg btnReserve" onclick="openReservationModal()">
+                <i class="bi bi-calendar3"></i> Reserve Now
+            </button>
+
+            <button type="button" class="btn btn-primary btn-lg btnWish" onclick="addToWishlist()">
+                <i class="bi bi-heart-fill"></i> Add To Wishlist
+            </button>
+        </div>
+
+        <a href="@Url.Action("EditDetails", "Restaurant", new { id = Model.RestaurantId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
+        <a href="@Url.Action("Delete", "Restaurant", new { id = Model.RestaurantId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this restaurant?')"><i class="bi bi-trash"></i></a>
     </div>
-  
+
+    <div id="reserveModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeReservationModal()">&times;</span>
+            <h2>Select Reservation Date & Time</h2>
+            <input type="datetime-local" id="reservationDateTime" required onclick="this.focus()" style="cursor: pointer;"> 
+            <button class="reserve-button" onclick="reserveRestaurant()">Reserve Now</button>
+        </div>
+    </div>
+
     <script>
         var slideIndex = 1;
         showSlides(slideIndex);
 
         function plusSlides(n) {
-            showSlides(slideIndex += n);
-        }
-
-        function showSlides(n) {
-            var i;
             var slides = document.getElementsByClassName("mySlides");
-            if (n > slides.length) { slideIndex = 1 }
-            if (n < 1) { slideIndex = slides.length }
-            for (i = 0; i < slides.length; i++) {
+            if (n > slides.length) { slideIndex = 1; }
+            if (n < 1) { slideIndex = slides.length; }
+            for (var i = 0; i < slides.length; i++) {
                 slides[i].style.display = "none";
             }
             slides[slideIndex - 1].style.display = "block";
         }
+
+        function openReservationModal() {
+            var modal = document.getElementById('reserveModal');
+            modal.style.display = 'block';
+            var reservationInput = document.getElementById('reservationDateTime');
+            reservationInput.click();
+        }
+
+    
+        function closeReservationModal() {
+            var modal = document.getElementById('reserveModal');
+            modal.style.display = 'none';
+        }
+
+      
+        function reserveRestaurant() {
+            var reservationDateTime = document.getElementById('reservationDateTime').value;
+            if (reservationDateTime) {
+                alert('Reservation successful!\nDate & Time: ' + reservationDateTime);
+                closeReservationModal();
+            } else {
+                alert('Please select a valid date & time for reservation.');
+            }
+        }
+
+        function addToWishlist() {
+            alert('Added to wishlist!');
+        }
     </script>
+
 </body>
 </html>

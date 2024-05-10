@@ -54,17 +54,7 @@
             {
                 <div class="col-sm-4 mt-3">
                     <div class="card">
-                        <div class="card-body">
-                            <!-- Edit button -->
-                            <a href="@Url.Action("Edit", "Restaurant", new { id = res.RestaurantId })" class="action-button">
-                                <i class="bi bi-pencil-square"></i>
-                            </a>
-                            <!-- Delete button with confirmation popup -->
-                            <a href="@Url.Action("Delete", "Restaurant", new { id = res.RestaurantId })">
-                                <i class="bi bi-trash3"></i>
-                            </a>
-                        </div>
-                        <a href="@Url.Action("Detail", "Restaurant", new { id = res.RestaurantId })">
+                      <a href="@Url.Action("Detail", "Restaurant", new { id = res.RestaurantId })">
                             <img src="@res.RestaurantImages" class="card-img-top test2" alt="..." />
                             <p class="img__description text-center-restaurants">Reserve Now</p>
                         </a>

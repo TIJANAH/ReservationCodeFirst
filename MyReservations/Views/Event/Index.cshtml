@@ -71,17 +71,7 @@
             {
                 <div class="col-sm-2 mt-3">
                     <div class="card">
-                        <div class="card-body">
-                            <!-- Edit button -->
-                            <a href="@Url.Action("Edit", "Event", new { id = res.EventId })">
-                                <i class="bi bi-pencil-square"></i>
-                            </a>
-                            <!-- Delete button -->
-                            <a href="@Url.Action("Delete", "Event", new { id = res.EventId })">
-                                <i class="bi bi-trash3"></i>
-                            </a>
-                        </div>
-                        <input type="hidden" value="@res.EventId" />
+                      <input type="hidden" value="@res.EventId" />
                         <a href="@Url.Action("DetailE", "Event", new { id = res.EventId })">
                             <img src="@res.EventImages" class="card-img-top test" alt="...">
                             <p class="custom-btn">@res.EventName</p>

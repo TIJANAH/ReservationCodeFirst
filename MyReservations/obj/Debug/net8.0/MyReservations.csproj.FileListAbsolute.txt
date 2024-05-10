@@ -150,6 +150,7 @@ C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\BCrypt.Net.dll
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Tijana.Hristova\source\repos\MyReservationsCodeFirst\MyReservations\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll

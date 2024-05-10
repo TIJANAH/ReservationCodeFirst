@@ -1,4 +1,5 @@
-﻿ <!DOCTYPE html>
+﻿
+ <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -18,33 +19,33 @@
                 padding: 0;
             }
 
-            /* Style for the container */
+          
             .container {
                 display: flex;
-                align-items: flex-start; /* Align items to the top */
+                align-items: flex-start;
             }
 
-            /* Style for the left section */
+          
             .left-section {
-                margin-right: 20px; /* Add some margin between the left and right sections */
+                margin-right: 20px;
             }
 
-            /* Style for the image container */
+           
             .image-container {
                 position: relative;
-                text-align: left; /* Align images and arrows to the left */
-                max-width: 70%; /* Set maximum width */
+                text-align: left; 
+                max-width: 70%; 
             }
 
-                /* Style for all images */
+              
                 .image-container img {
                     margin-top: 150px;
-                    width: 700px; /* Adjust as needed */
-                    height: 500px; /* Ensure all images have the same height */
+                    width: 700px;
+                    height: 500px;
                     display: block;
                 }
 
-            /* Style for the arrows */
+         
             .prev, .next {
                 cursor: pointer;
                 position: absolute;
@@ -56,36 +57,36 @@
                 font-weight: bold;
                 transition: background-color 0.3s ease;
                 z-index: 1;
-                text-decoration: none; /* Remove underline */
+                text-decoration: none;
             }
 
             .prev {
-                left: 50px; /* Adjust horizontally */
+                left: 50px;
             }
 
             .next {
-                right: -150px; /* Adjust horizontally */
+                right: -150px;
             }
 
-                /* Style for hover effect on arrows */
+              
                 .prev:hover, .next:hover {
                     background-color: rgba(0, 0, 0, 0.8);
                 }
 
-            /* Style for headers */
+            
             .name {
-                font-size: 40px; /* Adjust font size */
+                font-size: 40px; 
                 font-weight: bold;
                 color: white;
-                margin-top: 20px; /* Adjust spacing */
+                margin-top: 20px;
             }
 
             .desc {
-                font-size: 20px; /* Adjust font size */
+                font-size: 20px;
                 font-weight: bold;
                 color: gray;
-                margin: 20px 0; /* Adjust spacing */
-                width: 100%; /* Adjust width */
+                margin: 20px 0;
+                width: 100%; 
             }
 
 
@@ -146,7 +147,7 @@
                     @* <img class="mySlides picture" src="/images/area.jpg" alt="2.png">
                     <img class="mySlides picture" src="/images/ch.jpg" alt="Image 3"> *@
 
-                    <!-- Previous and Next buttons -->
+                   
                     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                     <a class="next" onclick="plusSlides(1)">&#10095;</a>
                 </div>

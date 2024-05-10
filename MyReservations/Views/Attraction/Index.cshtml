@@ -38,7 +38,7 @@
 
         .action-button {
             display: inline-block;
-            margin-right: 10px; /* Adjust as needed */
+            margin-right: 10px;
         }
 
         .create-button{
@@ -68,17 +68,7 @@
             {
                 <div class="col-sm-4 mt-3">
                     <div class="card">
-                        <!-- Edit and Delete buttons -->
-                        <div class="card-body">
-                            <a href="@Url.Action("Edit", "Attraction", new { id = res.AttractionsId })" class="action-button">
-                                <i class="bi bi-pencil-square"></i>
-                            </a>
-                            <a href="@Url.Action("Delete", "Attraction", new { id = res.AttractionsId })">
-                                <i class="bi bi-trash3"></i>
-                            </a>
-                        </div>
-
-                        <input type="hidden" value="@res.AttractionsId" />
+                      <input type="hidden" value="@res.AttractionsId" />
                         <a href="@Url.Action("DetailA", "Attraction", new { id = res.AttractionsId })">
                             <img src="@res.AttractionsImages" class="card-img-top test3" alt="...">
                         </a>

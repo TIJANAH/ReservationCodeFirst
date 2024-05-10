@@ -1,22 +1,43 @@
 global using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 using MyReservations.Interfaces;
 using MyReservations.Models;
 using MyReservations.Services;
+using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ReservationsContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("SQLDataReservations")));
 
 builder.Services.AddScoped<IFileUploadService, FileUploadService>();
 
+
+
+
+/*
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(option =>
+                {
+                    option.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(
+                            Encoding.UTF8.GetBytes(builder.Configuration.GetSection("Jwt:Token").Value!)),
+                        ValidateIssuer = true,
+                        ValidIssuer = builder.Configuration.GetSection("Jwt:Issuer").Value,
+                       ValidateAudience = true,
+                       ValidAudience = builder.Configuration.GetSection("Jwt:Audience").Value
+                    };
+                });
+*/
+
+
 var app = builder.Build();
 
 
-
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -30,6 +51,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
+
 
 app.MapControllerRoute(
     name: "default",

@@ -301,6 +301,10 @@
       "PackagePath": "staticwebassets\\images\\boris.jpg"
     },
     {
+      "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\calendar-check.svg",
+      "PackagePath": "staticwebassets\\images\\calendar-check.svg"
+    },
+    {
       "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\ch.jpg",
       "PackagePath": "staticwebassets\\images\\ch.jpg"
     },
@@ -319,6 +323,10 @@
     {
       "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\horse.jpg",
       "PackagePath": "staticwebassets\\images\\horse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\image0.jpeg",
+      "PackagePath": "staticwebassets\\images\\image0.jpeg"
     },
     {
       "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\inside.jpg",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/dcePUPS88SzDmTdBGvLZADQAI+eQw8Q49hF0X35z94=",
+  "Hash": "ovw39IzzggW7td9BrWNcof64UbEMtNaH5pqojlD1ZSU=",
   "Source": "MyReservations",
   "BasePath": "_content/MyReservations",
   "Mode": "Default",
@@ -1442,6 +1442,25 @@
       "OriginalItemSpec": "wwwroot\\images\\boris.jpg"
     },
     {
+      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\calendar-check.svg",
+      "SourceId": "MyReservations",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "BasePath": "_content/MyReservations",
+      "RelativePath": "images/calendar-check.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\calendar-check.svg"
+    },
+    {
       "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\Capture.PNG",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
@@ -1554,6 +1573,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\horse.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\image0.jpeg",
+      "SourceId": "MyReservations",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "BasePath": "_content/MyReservations",
+      "RelativePath": "images/image0.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image0.jpeg"
     },
     {
       "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\inside.jpg",
