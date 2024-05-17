@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using MyReservations.Models;
 using System;
@@ -29,7 +30,7 @@ namespace MyReservations.Services
                 new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()),
                 new Claim(ClaimTypes.Name, user.Username),
                 new Claim(ClaimTypes.Email, user.Email),
-        
+
             };
 
             var tokenOptions = new JwtSecurityToken(
@@ -46,9 +47,10 @@ namespace MyReservations.Services
 
         public bool ValidatePassword(User user, string password)
         {
-          
-            return user.Password == password; 
+
+            return user.Password == password;
         }
+
     }
 }
     
