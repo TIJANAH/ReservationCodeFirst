@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Attractions Page";
+    ViewData["Title"] = "ATTRACTIONS PAGE";
 }
 
 <!DOCTYPE html>
@@ -49,8 +49,6 @@
     </style>
 </head>
 <body>
-
-   
         <a href="@Url.Action("Create", "Attraction")" class="create-button">
             <i class="bi bi-plus-square"></i>
         </a>
@@ -59,9 +57,6 @@
         <h1 class="display-4-attraction">WELCOME TO THE</h1>
         <p>@ViewData["Title"]</p>
     </div>
-
-    
-
     <div class="container" style="margin-top:50px">
         <div class="row">
             @foreach (var res in Model)

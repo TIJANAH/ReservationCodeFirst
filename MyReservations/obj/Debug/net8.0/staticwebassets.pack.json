@@ -649,8 +649,16 @@
       "PackagePath": "staticwebassets\\uploads\\1.png"
     },
     {
+      "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2.png",
+      "PackagePath": "staticwebassets\\uploads\\2.png"
+    },
+    {
       "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2be.jpg",
       "PackagePath": "staticwebassets\\uploads\\2be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\SCSIT-Logo (1).png",
+      "PackagePath": "staticwebassets\\uploads\\SCSIT-Logo (1).png"
     },
     {
       "Id": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\akkva.jpg",

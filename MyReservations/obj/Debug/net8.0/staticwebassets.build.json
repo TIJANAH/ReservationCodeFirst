@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ovw39IzzggW7td9BrWNcof64UbEMtNaH5pqojlD1ZSU=",
+  "Hash": "PIqgPW+suqPblPmRWoieY0egfBIz8IjU4xNqqRedWdI=",
   "Source": "MyReservations",
   "BasePath": "_content/MyReservations",
   "Mode": "Default",
@@ -3114,6 +3114,25 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1.png"
     },
     {
+      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2.png",
+      "SourceId": "MyReservations",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "BasePath": "_content/MyReservations",
+      "RelativePath": "uploads/2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2.png"
+    },
+    {
       "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2be.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
@@ -3473,6 +3492,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\reka.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\SCSIT-Logo (1).png",
+      "SourceId": "MyReservations",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "BasePath": "_content/MyReservations",
+      "RelativePath": "uploads/SCSIT-Logo (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\SCSIT-Logo (1).png"
     },
     {
       "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\weekend.webp",

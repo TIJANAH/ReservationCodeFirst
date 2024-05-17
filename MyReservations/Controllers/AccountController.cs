@@ -2,14 +2,16 @@
 using MyReservations.Models;
 using System.Linq;
 using BCrypt.Net;
+using MyReservations.Services;
 
 public class AccountController : Controller
 {
     private readonly ReservationsContext _context;
-
-    public AccountController(ReservationsContext context)
+    private readonly TokenService _tokenService;
+    public AccountController(ReservationsContext context, TokenService token)
     {
         _context = context;
+        _tokenService = token;
     }
 
     public IActionResult Login()
@@ -23,7 +25,9 @@ public class AccountController : Controller
         var user = _context.Users.FirstOrDefault(u => u.Username == username);
         if (user != null && BCrypt.Net.BCrypt.Verify(password, user.Password))
         {
-           
+            var userToken = _tokenService.GenerateJwtToken(user);
+
+            user.Token = userToken;
             return RedirectToAction("Index", "Home");
         }
         else

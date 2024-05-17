@@ -86,10 +86,8 @@ namespace MyReservations.Controllers
                     if (existingRestaurant == null)
                         return NotFound();
 
-                    // Update the restaurant name
                     existingRestaurant.RestaurantName = restaurant.RestaurantName;
 
-                    // Check if a new image is uploaded and it's different from the existing one
                     existingRestaurant.RestaurantImages = _fileUpload.SaveImage(restaurantPictures, existingRestaurant.RestaurantImages);
 
                     _context.Update(existingRestaurant);

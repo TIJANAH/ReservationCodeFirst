@@ -1,12 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using MyReservations.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using MyReservations.Services;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
 using MyReservations.Interfaces;
+using MyReservations.Models;
 
 namespace MyReservations.Controllers
 {

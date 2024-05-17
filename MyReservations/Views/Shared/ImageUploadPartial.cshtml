@@ -4,19 +4,19 @@
     /* Custom style for the image box */
     .image-box {
         padding: 10px;
-        width: 200px; /* Set your desired width */
-        height: auto; /* Adjust height as needed */
+        width: 200px;
+        height: auto; 
     }
 
     .image {
-        max-width: 100%; /* Ensure the image fits within the box */
-        height: auto; /* Maintain aspect ratio */
+        max-width: 100%; 
+        height: auto; 
     }
 </style>
 
 <div class="custom-image-box">
     <label>Current Image:</label>
-    <!-- Display current image if available -->
+
     @if (!string.IsNullOrEmpty(Model))
     {
         <div class="image-box">

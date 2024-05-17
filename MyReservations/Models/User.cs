@@ -26,5 +26,7 @@ namespace MyReservations.Models
         public virtual ICollection<Reservation> Reservations { get; set; } = new List<Reservation>();
 
         public virtual ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();
+
+        public string Token { get; set; } 
     }
 }
