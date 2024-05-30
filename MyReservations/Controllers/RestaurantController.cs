@@ -11,9 +11,11 @@ using Microsoft.AspNetCore.Http;
 using MyReservations.Services;
 using MyReservations.Interfaces;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MyReservations.Controllers
 {
+    [Authorize]
     public class RestaurantController : Controller
     {
         private readonly ReservationsContext _context;
@@ -26,13 +28,16 @@ namespace MyReservations.Controllers
             _fileUpload = fileUploadService;
         }
 
-        [HttpGet]
+         [AllowAnonymous]
         public async Task<ActionResult<List<Restaurant>>> Index()
         {
-            var restaurants = await _context.Restaurants.ToListAsync();
-            return View(restaurants);
-        }
+            
+                var restaurants = await _context.Restaurants.ToListAsync();
+                return View(restaurants);
 
+        
+        }
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<Restaurant>> Detail(int id)
         {
@@ -44,10 +49,20 @@ namespace MyReservations.Controllers
             return View(restaurant);
         }
 
+
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Create()
         {
-            return View();
+            if (User.IsInRole("Admin"))
+
+                return View();
+
+             else
+
+            {
+                return RedirectToAction("AccessDenied");
+            }
         }
 
         [HttpPost]
@@ -64,63 +79,26 @@ namespace MyReservations.Controllers
             return View(restaurant);
         }
 
-        [HttpGet]
-        public async Task<IActionResult> Edit(int id)
-        {
-            var restaurant = await _context.Restaurants.FindAsync(id);
-            if (restaurant == null)
-                return NotFound();
-
-            return View(restaurant);
-        }
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Restaurant restaurant, IFormFile restaurantPictures)
-        {
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    var existingRestaurant = await _context.Restaurants.FindAsync(id);
-
-                    if (existingRestaurant == null)
-                        return NotFound();
-
-                    existingRestaurant.RestaurantName = restaurant.RestaurantName;
-
-                    existingRestaurant.RestaurantImages = _fileUpload.SaveImage(restaurantPictures, existingRestaurant.RestaurantImages);
-
-                    _context.Update(existingRestaurant);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction(nameof(Index));
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!RestaurantExists(restaurant.RestaurantId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-            }
-
-            return View(restaurant);
-        }
 
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
-            var restaurant = await _context.Restaurants.FindAsync(id);
+            if (User.IsInRole("Admin"))
+            {
+                var restaurant = await _context.Restaurants.FindAsync(id);
             if (restaurant == null)
             {
                 return NotFound();
             }
 
             return View(restaurant);
+            }
+            else
+            {
+                return RedirectToAction("AccessDenied");
+            }
         }
 
         [HttpPost]
@@ -138,18 +116,26 @@ namespace MyReservations.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> EditDetails(int id)
         {
-            var restaurant = await _context.Restaurants.FindAsync(id);
+            if (User.IsInRole("Admin"))
+            {
+                var restaurant = await _context.Restaurants.FindAsync(id);
 
-            if (restaurant == null)
-                return NotFound();
+                if (restaurant == null)
+                    return NotFound();
 
-            return View(restaurant);
-        }
+                return View(restaurant);
+            }
+            else
+            {
+                return RedirectToAction("AccessDenied");
+            }
+            }
 
-   [HttpPost]
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> EditDetails(int id, Restaurant restaurant, IFormFile restaurantImages)
         {

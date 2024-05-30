@@ -1,6 +1,9 @@
 ﻿@{
     ViewData["Title"] = "ATTRACTIONS PAGE";
+    var isAdmin = User.IsInRole("Admin");
 }
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,10 +52,12 @@
     </style>
 </head>
 <body>
+     @if (isAdmin)
+    {
         <a href="@Url.Action("Create", "Attraction")" class="create-button">
             <i class="bi bi-plus-square"></i>
         </a>
-
+        }
     <div class="text-center-attraction">
         <h1 class="display-4-attraction">WELCOME TO THE</h1>
         <p>@ViewData["Title"]</p>

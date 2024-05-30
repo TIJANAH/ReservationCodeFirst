@@ -7,7 +7,7 @@ public partial class Ticket
 {
     public int TicketId { get; set; }
 
-    public int UserId { get; set; }
+    public string UserId { get; set; }
 
     public DateOnly? PurchaseDate { get; set; }
 

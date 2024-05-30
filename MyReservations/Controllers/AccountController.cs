@@ -1,17 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using MyReservations.Models;
 using System.Linq;
-using BCrypt.Net;
-using MyReservations.Services;
+using System.Threading.Tasks;
 
 public class AccountController : Controller
 {
     private readonly ReservationsContext _context;
-    private readonly TokenService _tokenService;
-    public AccountController(ReservationsContext context, TokenService token)
+    private readonly UserManager<User> _userManager;
+    private readonly SignInManager<User> _signInManager;
+
+    public AccountController(ReservationsContext context,
+        UserManager<User> userManager,
+        SignInManager<User> signInManager)
     {
         _context = context;
-        _tokenService = token;
+        _userManager = userManager;
+        _signInManager = signInManager;
     }
 
     public IActionResult Login()
@@ -20,21 +26,24 @@ public class AccountController : Controller
     }
 
     [HttpPost]
-    public IActionResult Login(string username, string password)
+    public async Task<IActionResult> Login(LoginViewModel model)
     {
-        var user = _context.Users.FirstOrDefault(u => u.Username == username);
-        if (user != null && BCrypt.Net.BCrypt.Verify(password, user.Password))
+        if (ModelState.IsValid)
         {
-            var userToken = _tokenService.GenerateJwtToken(user);
+            var user = await _userManager.FindByNameAsync(model.Username);
+            if (user != null)
+            {
+                var result = await _signInManager.PasswordSignInAsync(model.Username, model.Password, false, lockoutOnFailure: false);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+            }
 
-            user.Token = userToken;
-            return RedirectToAction("Index", "Home");
+            ModelState.AddModelError(string.Empty, "Invalid login attempt.");
         }
-        else
-        {
-            ModelState.AddModelError(nameof(LoginViewModel.Username), "Invalid username or password");
-            return View();
-        }
+
+        return View(model);
     }
 
     public IActionResult Register()
@@ -43,34 +52,44 @@ public class AccountController : Controller
     }
 
     [HttpPost]
-    public IActionResult Register(RegisterViewModel model)
+    public async Task<IActionResult> Register(RegisterViewModel model)
     {
         if (ModelState.IsValid)
         {
-            var hashedPassword = BCrypt.Net.BCrypt.HashPassword(model.Password);
-
             var user = new User
             {
-                FirstName = model.FirstName,
-                LastName = model.LastName,
-                Username = model.Username,
+                UserName = model.Username,
                 Email = model.Email,
-                Password = hashedPassword
+                FirstName = model.FirstName,
+                LastName = model.LastName
             };
 
-            _context.Users.Add(user);
-            _context.SaveChanges();
+            var result = await _userManager.CreateAsync(user, model.Password);
+            if (result.Succeeded)
+            {
+                await _signInManager.SignInAsync(user, isPersistent: false);
+                return RedirectToAction("Index", "Home");
+            }
 
-           
-            return RedirectToAction("Login");
+            foreach (var error in result.Errors)
+            {
+                ModelState.AddModelError(string.Empty, error.Description);
+            }
         }
 
         return View(model);
     }
 
-    public IActionResult Edit(int id)
+    [Authorize]
+    public IActionResult Profile()
     {
-        var user = _context.Users.FirstOrDefault(u => u.UserId == id);
+        return View();
+    }
+
+    [Authorize]
+    public IActionResult Edit(string id)
+    {
+        var user = _context.Users.FirstOrDefault(u => u.Id == id);
         if (user == null)
         {
             return NotFound();
@@ -79,9 +98,10 @@ public class AccountController : Controller
     }
 
     [HttpPost]
-    public IActionResult Edit(int id, User user)
+    [Authorize]
+    public IActionResult Edit(string id, User user)
     {
-        if (id != user.UserId)
+        if (id != user.Id)
         {
             return BadRequest();
         }
@@ -96,9 +116,10 @@ public class AccountController : Controller
         return View(user);
     }
 
-    public IActionResult Delete(int id)
+    [Authorize]
+    public IActionResult Delete(string id)
     {
-        var user = _context.Users.FirstOrDefault(u => u.UserId == id);
+        var user = _context.Users.FirstOrDefault(u => u.Id == id);
         if (user == null)
         {
             return NotFound();
@@ -107,9 +128,10 @@ public class AccountController : Controller
     }
 
     [HttpPost, ActionName("Delete")]
-    public IActionResult DeleteConfirmed(int id)
+    [Authorize]
+    public IActionResult DeleteConfirmed(string id)
     {
-        var user = _context.Users.FirstOrDefault(u => u.UserId == id);
+        var user = _context.Users.FirstOrDefault(u => u.Id == id);
         if (user == null)
         {
             return NotFound();
@@ -119,9 +141,22 @@ public class AccountController : Controller
         return RedirectToAction("Index", "Home");
     }
 
-    public IActionResult Profile()
+    public IActionResult AccessDenied()
     {
-      
         return View();
+    }
+
+    [AllowAnonymous]
+    public async Task<IActionResult> Logout(string returnUrl = null)
+    {
+        await _signInManager.SignOutAsync();
+        if (returnUrl != null)
+        {
+            return LocalRedirect(returnUrl);
+        }
+        else
+        {
+            return RedirectToAction("Index", "Home");
+        }
     }
 }

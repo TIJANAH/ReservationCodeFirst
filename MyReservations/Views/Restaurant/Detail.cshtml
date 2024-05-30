@@ -1,4 +1,10 @@
 ﻿@model Restaurant
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<User> UserManager
+@{
+    ViewData["Title"] = @Model.RestaurantName;
+    var isAdmin = User.IsInRole("Admin");
+}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +18,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
 
     <style>
-      
         body {
             background-image: url("/images/minimini.png");
             background-size: cover;
@@ -38,7 +43,7 @@
             .image-container img {
                 margin-top: 150px;
                 width: 700px;
-                height: 500px; 
+                height: 500px;
                 display: block;
             }
 
@@ -57,11 +62,11 @@
         }
 
         .prev {
-            left: 50px; 
+            left: 50px;
         }
 
         .next {
-            right: -150px; 
+            right: -150px;
         }
 
             .prev:hover, .next:hover {
@@ -72,14 +77,14 @@
             font-size: 40px;
             font-weight: bold;
             color: white;
-            margin-top: 20px; 
+            margin-top: 20px;
         }
 
         .desc {
             font-size: 20px;
             font-weight: bold;
             color: gray;
-            margin: 20px 0; 
+            margin: 20px 0;
             width: 100%;
         }
 
@@ -127,7 +132,6 @@
             border-color: black;
         }
 
-       
         .modal {
             display: none;
             position: fixed;
@@ -140,7 +144,6 @@
             background-color: rgba(0, 0, 0, 0.5);
         }
 
-       
         .modal-content {
             background-color: #fefefe;
             margin: 15% auto;
@@ -152,7 +155,6 @@
             text-align: center;
         }
 
-        
         .close {
             color: #aaa;
             float: right;
@@ -161,7 +163,6 @@
             cursor: pointer;
         }
 
-      
         .reserve-button {
             margin-top: 20px;
             padding: 10px 20px;
@@ -194,7 +195,6 @@
         <div class="left-section">
             <div class="image-container">
                 <img src="@Model.RestaurantImages" alt="Restaurant Image">
-
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
             </div>
@@ -218,15 +218,18 @@
             </button>
         </div>
 
-        <a href="@Url.Action("EditDetails", "Restaurant", new { id = Model.RestaurantId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
-        <a href="@Url.Action("Delete", "Restaurant", new { id = Model.RestaurantId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this restaurant?')"><i class="bi bi-trash"></i></a>
+        @if (isAdmin)
+        {
+            <a href="@Url.Action("EditDetails", "Restaurant", new { id = Model.RestaurantId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
+            <a href="@Url.Action("Delete", "Restaurant", new { id = Model.RestaurantId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this restaurant?')"><i class="bi bi-trash"></i></a>
+        }
     </div>
 
     <div id="reserveModal" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeReservationModal()">&times;</span>
             <h2>Select Reservation Date & Time</h2>
-            <input type="datetime-local" id="reservationDateTime" required onclick="this.focus()" style="cursor: pointer;"> 
+            <input type="datetime-local" id="reservationDateTime" required onclick="this.focus()" style="cursor: pointer;">
             <button class="reserve-button" onclick="reserveRestaurant()">Reserve Now</button>
         </div>
     </div>
@@ -252,13 +255,11 @@
             reservationInput.click();
         }
 
-    
         function closeReservationModal() {
             var modal = document.getElementById('reserveModal');
             modal.style.display = 'none';
         }
 
-      
         function reserveRestaurant() {
             var reservationDateTime = document.getElementById('reservationDateTime').value;
             if (reservationDateTime) {

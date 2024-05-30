@@ -27,8 +27,8 @@ namespace MyReservations.Services
 
             var claims = new List<Claim>
             {
-                new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()),
-                new Claim(ClaimTypes.Name, user.Username),
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                new Claim(ClaimTypes.Name, user.UserName),
                 new Claim(ClaimTypes.Email, user.Email),
 
             };
@@ -48,7 +48,7 @@ namespace MyReservations.Services
         public bool ValidatePassword(User user, string password)
         {
 
-            return user.Password == password;
+            return user.PasswordHash == password;
         }
 
     }

@@ -4,7 +4,7 @@ namespace MyReservations.Models
 {
     public class LoginViewModel
     {
-        [Required(ErrorMessage = "The Name field is required.")]
+        [Required(ErrorMessage = "The Username field is required.")]
         public required string Username { get; set; }
 
         [Required(ErrorMessage = "The Password field is required.")]

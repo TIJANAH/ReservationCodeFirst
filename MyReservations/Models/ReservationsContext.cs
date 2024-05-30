@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 
 namespace MyReservations.Models;
 
-public partial class ReservationsContext : DbContext
+public partial class ReservationsContext : IdentityDbContext<User>
 {
     public ReservationsContext()
     {
@@ -35,10 +36,11 @@ public partial class ReservationsContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Server=SEMOS-PC7; Database=Reservations; Trusted_Connection=True; TrustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("Server=SEMOS-PC7; Database=ReservationData; Trusted_Connection=True; TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Attraction>(entity =>
         {
             entity.HasKey(e => e.AttractionsId).HasName("PK__Attracti__692919EB73F87B8F");
@@ -90,7 +92,7 @@ public partial class ReservationsContext : DbContext
             entity.ToTable("Reservation");
 
             entity.Property(e => e.ReservationId).HasColumnName("ReservationID");
-            entity.Property(e => e.UserId).HasColumnName("UserID");
+            entity.Property(e => e.UserId).HasColumnName("UserId");
 
             entity.HasOne(d => d.User).WithMany(p => p.Reservations)
                 .HasForeignKey(d => d.UserId)
@@ -109,35 +111,10 @@ public partial class ReservationsContext : DbContext
             entity.Property(e => e.RestaurantName).HasMaxLength(50);
         });
 
-        modelBuilder.Entity<Ticket>(entity =>
-        {
-            entity.HasKey(e => e.TicketId).HasName("PK__Ticket__712CC627AA2FE740");
-
-            entity.ToTable("Ticket");
-
-            entity.Property(e => e.TicketId).HasColumnName("TicketID");
-            entity.Property(e => e.PaymentMethod).HasMaxLength(50);
-            entity.Property(e => e.Price).HasColumnType("decimal(10, 2)");
-            entity.Property(e => e.UserId).HasColumnName("UserID");
-
-            entity.HasOne(d => d.User).WithMany(p => p.Tickets)
-                .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Ticket__UserID__3E52440B");
-        });
-
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__User__1788CCAC93D91225");
-
-            entity.ToTable("User");
-
-            entity.Property(e => e.UserId).HasColumnName("UserID");
-            entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.FirstName).HasMaxLength(50);
             entity.Property(e => e.LastName).HasMaxLength(50);
-            entity.Property(e => e.Password).HasMaxLength(50);
-            entity.Property(e => e.Username).HasMaxLength(50);
         });
 
         OnModelCreatingPartial(modelBuilder);

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PIqgPW+suqPblPmRWoieY0egfBIz8IjU4xNqqRedWdI=",
+  "Hash": "zrvAFKaXXLEohrEYMIYg8NUOC/6vS4lFqZVIV8T0d0s=",
   "Source": "MyReservations",
   "BasePath": "_content/MyReservations",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "MyReservations\\wwwroot",
       "Source": "MyReservations",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "Pattern": "**"
     }
@@ -20,7 +20,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -39,7 +39,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -58,7 +58,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -77,7 +77,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -96,7 +96,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -115,7 +115,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -134,7 +134,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -153,7 +153,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -172,7 +172,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -191,7 +191,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -210,7 +210,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -229,7 +229,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -248,7 +248,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -267,7 +267,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -286,7 +286,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -305,7 +305,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -324,7 +324,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -343,7 +343,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -362,7 +362,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -381,7 +381,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -400,7 +400,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -419,7 +419,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -438,7 +438,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -457,7 +457,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -476,7 +476,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -495,7 +495,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -514,7 +514,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -533,7 +533,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -552,7 +552,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -571,7 +571,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -590,7 +590,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -609,7 +609,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -628,7 +628,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -647,7 +647,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -666,7 +666,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -685,7 +685,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -704,7 +704,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -723,7 +723,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -742,7 +742,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -761,7 +761,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -780,7 +780,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -799,7 +799,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -818,7 +818,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -837,7 +837,7 @@
       "Identity": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "C:\\Users\\Tijana.Hristova\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyReservations.styles.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyReservations.styles.css",
       "SourceId": "MyReservations",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "MyReservations.styles.css",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyReservations.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyReservations.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyReservations.bundle.scp.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyReservations.bundle.scp.css",
       "SourceId": "MyReservations",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "MyReservations.bundle.scp.css",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyReservations.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyReservations.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\css\\site.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\css\\StyleSheet.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\css\\StyleSheet.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "css/StyleSheet.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\10fd3152-e382-4b85-980a-7fdec06a497a_dfest.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\10fd3152-e382-4b85-980a-7fdec06a497a_dfest.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/10fd3152-e382-4b85-980a-7fdec06a497a_dfest.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\10fd3152-e382-4b85-980a-7fdec06a497a_dfest.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\1689933e-a24e-4acb-9bdc-8269a95b4552_8274d75e-c13e-40a9-9798-158bc52228e6_bkw.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\1689933e-a24e-4acb-9bdc-8269a95b4552_8274d75e-c13e-40a9-9798-158bc52228e6_bkw.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/1689933e-a24e-4acb-9bdc-8269a95b4552_8274d75e-c13e-40a9-9798-158bc52228e6_bkw.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\1689933e-a24e-4acb-9bdc-8269a95b4552_8274d75e-c13e-40a9-9798-158bc52228e6_bkw.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\34bb01ff-cfdd-43cf-b730-a2007da10974_2be.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\34bb01ff-cfdd-43cf-b730-a2007da10974_2be.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/34bb01ff-cfdd-43cf-b730-a2007da10974_2be.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\34bb01ff-cfdd-43cf-b730-a2007da10974_2be.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\40ade2a9-7dcc-42a1-a4ea-803e7528c5be_art.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\40ade2a9-7dcc-42a1-a4ea-803e7528c5be_art.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/40ade2a9-7dcc-42a1-a4ea-803e7528c5be_art.webp",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\40ade2a9-7dcc-42a1-a4ea-803e7528c5be_art.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\5e780cfd-fd26-4e27-a1d3-ccce762814f4_weekend.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\5e780cfd-fd26-4e27-a1d3-ccce762814f4_weekend.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/5e780cfd-fd26-4e27-a1d3-ccce762814f4_weekend.webp",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\5e780cfd-fd26-4e27-a1d3-ccce762814f4_weekend.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\9098fb75-046d-43b7-b980-60707198540e_luna.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\9098fb75-046d-43b7-b980-60707198540e_luna.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/9098fb75-046d-43b7-b980-60707198540e_luna.webp",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\9098fb75-046d-43b7-b980-60707198540e_luna.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\9c7d8327-6c4f-47b4-bf00-e01180b6c044_0b1b4c59-6ad3-4a5c-b3cd-327e96ab39c3_bkwbar.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\9c7d8327-6c4f-47b4-bf00-e01180b6c044_0b1b4c59-6ad3-4a5c-b3cd-327e96ab39c3_bkwbar.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/9c7d8327-6c4f-47b4-bf00-e01180b6c044_0b1b4c59-6ad3-4a5c-b3cd-327e96ab39c3_bkwbar.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\9c7d8327-6c4f-47b4-bf00-e01180b6c044_0b1b4c59-6ad3-4a5c-b3cd-327e96ab39c3_bkwbar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\a1050cc5-b217-4f8f-9eee-e290c1dc6f7e_rakun.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\a1050cc5-b217-4f8f-9eee-e290c1dc6f7e_rakun.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/a1050cc5-b217-4f8f-9eee-e290c1dc6f7e_rakun.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\a1050cc5-b217-4f8f-9eee-e290c1dc6f7e_rakun.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\d2eecd40-53dc-43ee-b76f-59b4dab2f347_karaoke.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\d2eecd40-53dc-43ee-b76f-59b4dab2f347_karaoke.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/d2eecd40-53dc-43ee-b76f-59b4dab2f347_karaoke.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\d2eecd40-53dc-43ee-b76f-59b4dab2f347_karaoke.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\event_images\\ed2fdb46-f71e-4e51-8e59-950e834c9594_rakun.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\event_images\\ed2fdb46-f71e-4e51-8e59-950e834c9594_rakun.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "event_images/ed2fdb46-f71e-4e51-8e59-950e834c9594_rakun.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\event_images\\ed2fdb46-f71e-4e51-8e59-950e834c9594_rakun.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\favicon.ico",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\1.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\1.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/1.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\2.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\2.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/2.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\2be.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\2be.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/2be.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2be.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\3.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\3.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/3.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\4.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\4.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/4.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\akkva.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\akkva.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/akkva.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\images\\akkva.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\akva.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\akva.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/akva.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\images\\akva.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\area.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\area.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/area.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\area.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\art.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\art.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/art.webp",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\art.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\attraction.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\attraction.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/attraction.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\attraction.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\baby.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\baby.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/baby.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\baby.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\backye.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\backye.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/backye.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backye.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\bkw.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\bkw.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/bkw.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bkw.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\bkwbar.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\bkwbar.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/bkwbar.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bkwbar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\black.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\black.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/black.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\black.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\boris.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\boris.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/boris.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\boris.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\calendar-check.svg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\calendar-check.svg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/calendar-check.svg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\calendar-check.svg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\Capture.PNG",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\Capture.PNG",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/Capture.PNG",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Capture.PNG"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\ch.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\ch.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/ch.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ch.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\dfest.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\dfest.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/dfest.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dfest.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\dz.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\dz.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/dz.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dz.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\food.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\food.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/food.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\food.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\horse.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\horse.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/horse.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\horse.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\image0.jpeg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\image0.jpeg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/image0.jpeg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image0.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\inside.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\inside.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/inside.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inside.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\karaoke.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\karaoke.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/karaoke.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\karaoke.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\kayak.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\kayak.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/kayak.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kayak.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\kk.jpeg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\kk.jpeg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/kk.jpeg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kk.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\libra.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\libra.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/libra.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\libra.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\luna.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\luna.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/luna.webp",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\luna.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\madzo.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\madzo.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/madzo.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\madzo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\mato.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\mato.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/mato.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mato.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\matonap.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\matonap.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/matonap.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\matonap.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\mattto.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\mattto.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/mattto.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mattto.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\minimini.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\minimini.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/minimini.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\minimini.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\planina.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\planina.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/planina.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\planina.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\raguza.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\raguza.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/raguza.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\raguza.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\rakun.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\rakun.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/rakun.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rakun.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\reka.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\reka.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/reka.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\reka.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\three.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\three.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/three.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\three.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\trmno.avif",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\trmno.avif",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/trmno.avif",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trmno.avif"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\vodno.jfif",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\vodno.jfif",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/vodno.jfif",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vodno.jfif"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\weekend.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\weekend.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/weekend.webp",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\weekend.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\whiteb.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\whiteb.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/whiteb.png",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\whiteb.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\images\\zoo.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\images\\zoo.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "images/zoo.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\zoo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\js\\site.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\1.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\1.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/1.png",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\2.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/2.png",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\2be.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\2be.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/2be.jpg",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2be.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\akkva.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\akkva.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/akkva.jpg",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\akkva.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\akva.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\akva.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/akva.jpg",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\akva.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\area.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\area.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/area.jpg",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\area.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\art.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\art.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/art.webp",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\art.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\attraction.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\attraction.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/attraction.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\attraction.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\baby.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\baby.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/baby.png",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\baby.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\bkw.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\bkw.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/bkw.jpg",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\bkw.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\bkwbar.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\bkwbar.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/bkwbar.jpg",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\bkwbar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\boris.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\boris.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/boris.jpg",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\boris.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\dfest.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\dfest.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/dfest.jpg",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\dfest.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\food.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\food.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/food.jpg",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\food.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\karaoke.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\karaoke.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/karaoke.jpg",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\karaoke.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\libra.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\libra.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/libra.jpg",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\libra.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\luna.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\luna.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/luna.webp",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\luna.webp"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\planina.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\planina.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/planina.jpg",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\planina.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\raguza.png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\raguza.png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/raguza.png",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\raguza.png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\rakun.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\rakun.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/rakun.jpg",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\rakun.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\reka.jpg",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\reka.jpg",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/reka.jpg",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\reka.jpg"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\SCSIT-Logo (1).png",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\SCSIT-Logo (1).png",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/SCSIT-Logo (1).png",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\SCSIT-Logo (1).png"
     },
     {
-      "Identity": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\uploads\\weekend.webp",
+      "Identity": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\uploads\\weekend.webp",
       "SourceId": "MyReservations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Tijana.Hristova\\source\\repos\\MyReservationsCodeFirst\\MyReservations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Tijana.Hristova\\Downloads\\ReservationCodeFirst (2)\\ReservationCodeFirst\\MyReservations\\wwwroot\\",
       "BasePath": "_content/MyReservations",
       "RelativePath": "uploads/weekend.webp",
       "AssetKind": "All",

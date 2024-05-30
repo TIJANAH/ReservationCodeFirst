@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyReservations.Models;
 
 namespace MyReservations.Controllers
 {
+    [Authorize(Roles = "User")]
     public class ReservationController : Controller
     {
         private readonly ReservationsContext _context;

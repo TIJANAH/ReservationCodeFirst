@@ -1,4 +1,7 @@
-﻿
+﻿@{
+    ViewData["Title"] = @Model.AttractionsName;
+    var isAdmin = User.IsInRole("Admin");
+}
  <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -171,9 +174,11 @@
                 </button>
                 </div>
             </div>
-        <a href="@Url.Action("EditADetails", "Attraction", new { id = Model.AttractionsId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
-        <a href="@Url.Action("Delete", "Attraction", new { id = Model.AttractionsId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this event?')"><i class="bi bi-trash"></i> </a>
-
+              @if (isAdmin)
+        {
+            <a href="@Url.Action("EditADetails", "Attraction", new { id = Model.AttractionsId })" class="edit-btn"><i class="bi bi-pencil"></i></a>
+            <a href="@Url.Action("Delete", "Attraction", new { id = Model.AttractionsId })" class="delete-btn" onclick="return confirm('Are you sure you want to delete this event?')"><i class="bi bi-trash"></i> </a>
+        }
         </div>
   
 
@@ -195,6 +200,31 @@
                 }
                 slides[slideIndex - 1].style.display = "block";
             }
+        function openReservationModal() {
+            var modal = document.getElementById('reserveModal');
+            modal.style.display = 'block';
+            var reservationInput = document.getElementById('reservationDateTime');
+            reservationInput.click();
+        }
+
+        function closeReservationModal() {
+            var modal = document.getElementById('reserveModal');
+            modal.style.display = 'none';
+        }
+
+        function reserveRestaurant() {
+            var reservationDateTime = document.getElementById('reservationDateTime').value;
+            if (reservationDateTime) {
+                alert('Reservation successful!\nDate & Time: ' + reservationDateTime);
+                closeReservationModal();
+            } else {
+                alert('Please select a valid date & time for reservation.');
+            }
+        }
+
+        function addToWishlist() {
+            alert('Added to wishlist!');
+        }
 
 
         </script>
